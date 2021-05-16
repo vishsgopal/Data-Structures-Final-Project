@@ -1,0 +1,4 @@
+# CS 225 Final Project Goals
+## Vish Gopal Sekar, Akshay Bhamidipati, Franklin Moy
+We will use the airports.dat file and will begin by traversing the routes and connecting the source and destination airports with an edge with a weight that represents the number of stops between them. We will then traverse this graph using the DFS traversal. We will begin our first option with Prim’s algorithm to find the minimum spanning tree of all airports with respect to the number of stops. We will then use an A* search algorithm to find the shortest path from one node to another. We will do this by using the number of stops from one airport to another in each route as a sort of “cost” and will calculate the minimum cost to get the minimum number of stops required from one airport to another.  
+- Sidenote: We asked our project mentor about the A* algorithm and he suggested that we pivot to the Landmark Path algorithm, so we are doing that instead.

@@ -1,0 +1,6 @@
+Generated Landmark Path:
+ORD
+JFK
+ORD
+CMI
+End of landmark path: destination reached

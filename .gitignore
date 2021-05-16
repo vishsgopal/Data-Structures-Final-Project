@@ -1,0 +1,10 @@
+.vscode
+
+finalproj
+test
+debug_log.txt
+
+.DS_Store
+*.o
+*.d
+*.gch
